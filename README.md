@@ -18,10 +18,10 @@ Every Problems Solutions that I submmited on Beecrowd
 
 
 
-## C++
+## C++ Solutions
 
 ## JavaScript Solutions
 
 ## Python Solutions
 
-## PostgreSQL
+## PostgreSQL Solutions
