@@ -8,7 +8,7 @@ Every Problems Solutions that I submmited on Beecrowd
 
 ## Index
 
-- [C++ Solutions](#c++-solutions)
+- [C++ Solutions](#c-solutions)
 
 - [JavaScript Solutions](#javascript-solutions)
 
